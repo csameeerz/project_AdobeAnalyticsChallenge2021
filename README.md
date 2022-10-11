@@ -1,3 +1,3 @@
-# Adobe Analytics Challenge 2021  
+# Adobe Analytics Challenge 2021 - Whizz Holics 
     This Repository contains one file,  
-        1. WhizzHolics-Report.pdf - Analysis of Disney Web and Mobile Users' Engagement.
+        1. WhizHolics-Report.pdf - Analysis of Disney Web and Mobile Users' Engagement.
